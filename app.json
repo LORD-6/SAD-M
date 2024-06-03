@@ -14,17 +14,17 @@
     "env": {
       "BOT_TOKEN": {
         "description": "تـــوكـــن البـــوت - من بـوت فـاذر〔 @Botfather 〕..",
-        "value": "7333971479:AAGDNISnMXU32rpeYWbUe3nuXxZTXi-eWvo",
+        "value": "",
         "required": true
       },
       "OWNER_ID": {
         "description": "ايـــدي المطـــور - مطـــور بـــوت الميـــوزك〔 ايدي حسابك 〕..",
-        "value": "7076620762",
+        "value": "",
         "required": true
       },
       "STRING_SESSION": {
         "description": "كـــود تيـــرمكـــس - كـود جلسـة الحسـاب المساعـد لـ الميـوزك بايـروجـرام v2 مـن البـوت〔 @T66bot 〕.. ",
-        "value": "BAGx6SIAvWAGYnoXAgdqXjY48nauxjraxtF2QQGPERWCmxVYAnTq7J00bUlgIDedOQGVIHQBeDSS2Rs_2yLvZokuCsA3T9yJWjdC2aVQE5asiOYcr1jDxfoknhEKHOxMCvemm0wFH9czmWCCEAKGBYU1B6ENvaMu9bxzCycvcliXNEzzAsMcCdcNUxrDsZ5Tz6h1qJU1mlPWi9N0WCR4FhVKkmmwmwMiqbiY_vXrqQiSBSgh4PZmwpiFoEbyOiUS3FNmGUpUS9K1PJhX7sNF2PDQyPZ58hCsLViKwwu2J0pdYReUVjjLECM0KFrCFiQIFf65sI_tflJ3DEjLwnC-OJne1KKHcwAAAAGV8xN3AA",
+        "value": "",
         "required": true
       },
       "HEROKU_API_KEY": {
@@ -34,12 +34,12 @@
       },
       "HEROKU_APP_NAME": {
         "description": "اســـم التطبيـــق - نفـس اول مربـع بالقائمـة نسـخ لصـق حـروف انكلـش سمــول〔 صغيـره فقـط 〕..",
-        "value": "music-sad",
+        "value": "",
         "required": false
       },
       "LOGGER_ID": {
         "description": "ادخــل ايــدي مجمـوعــة السجــل بجـانب الرقـم -100 فـي المربـع〔 سوي مجموعة جديدة وروح لاعدادات المجموعة وخلي السجل ظاهر .. بعدها ارفع البوت والحساب المساعد إشـراف وافتـح المكالمه بعدها جيب ايدي المجموعة لهنـا 〕..",
-        "value": "-1002093648931",
+        "value": "",
         "required": true
       }
     },
