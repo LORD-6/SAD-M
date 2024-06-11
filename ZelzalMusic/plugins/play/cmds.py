@@ -39,14 +39,14 @@ async def zdatsr(client: Client, message: Message):
                     InlineKeyboardButton(name, url=f"https://t.me/{usrnam}"),
                 ],[
                     InlineKeyboardButton(
-                        "•𝚂𝙾𝚄𝚁𝙲𝙴 𝙲𝙾𝙳𝙴•", url="https://t.me/lNooRxl"),
+                        "• 𝐒𝐨𝐮𝐫𝐜𝐞 𝐅𝐨𝐗 •", url="https://t.me/J_T_H"),
                 ],
             ]
         ),
     )
 
 
-@app.on_message(command(["مطور", "المطور"]) & filters.group)
+@app.on_message(command(["ااا", "الالالتل"]) & filters.group)
 async def zilzal(client: Client, message: Message):
     usr = await client.get_users(OWNER_ID)
     name = usr.first_name
@@ -64,7 +64,7 @@ reply_markup=InlineKeyboardMarkup(
             [            
               InlineKeyboardButton (name, url=f"https://t.me/{usrnam}"),
             ],[
-              InlineKeyboardButton("•𝚂𝙾𝚄𝚁𝙲𝙴 𝙲𝙾𝙳𝙴•", url="https://t.me/lNooRxl"),
+              InlineKeyboardButton("• 𝐒𝐨𝐮𝐫𝐜𝐞 𝐅𝐨𝐗 •", url="https://t.me/J_T_H"),
             ],
           ]
        )                 

@@ -21,7 +21,7 @@ def reply_to_HEY(Client, message):
         caption=f"""𝅄 𓏺 𝖭𝖺𝗆𝖾 : › 𓏺 Sad Planet .
 𝅄 𓏺 𝖴𝗌𝖾𝗋 : › @XovoX8
 𝅄 𓏺 𝖲𝗈𝗎𝗋𝖼𝖾 : › @lMySad
-𝅄 𓏺 𝖡𝗂𝗈 : › Andatfourinth @liank_Planet ؛ @lMySad @RrialAndsiti waitinga messagefro msoen meone whono longerca""",
+𝅄 𓏺 𝖡𝗂𝗈 : › His iraqelc.t.me are a world, and I am iraqolu.t.me in his lMySad.t.me place J_T_H.t.me , an Qraiin.t.me ٫ Ch iraqelu.t.me .HoT_FTer.t.me ؛R""",
         reply_markup=InlineKeyboardMarkup(
             [
             [

@@ -14,7 +14,7 @@ from random import  choice, randint
 
                 
 @app.on_message(
-    command(["سورس","السورس","سورس كودي"])
+    command(["سورس","السورس","سورس فوكس"])
 )
 async def huhh(client: Client, message: Message):
     await message.reply_photo(
@@ -27,7 +27,7 @@ async def huhh(client: Client, message: Message):
                         "• 𝐀𝐝𝐝 𝐌𝐞 𝐓𝐨 𝐘𝐨𝐮𝐫 𝐆𝐫𝐨𝐮𝐩 •", url=f"https://t.me/{app.username}?startgroup=true"),
                 ],[
                     InlineKeyboardButton(
-                        "• 𝚂𝙾𝚄𝚁𝙲𝙴 𝙲𝙾𝙳𝙴 •", url=f"https://t.me/lMySad"),
+                        "• 𝐒𝐨𝐮𝐫𝐜𝐞 𝐅𝐨𝐗 •", url=f"https://t.me/J_T_H"),
                 ],[
                     InlineKeyboardButton(
                         "• 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 •", url=f"https://t.me/XovoX8"),
